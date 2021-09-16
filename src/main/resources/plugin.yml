@@ -1,0 +1,4 @@
+name: serverlistcheck
+version: 0.0.0-indev
+main: moe.nea89.ServerlistCheck
+author: nea89#0998
